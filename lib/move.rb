@@ -10,6 +10,6 @@ def input_to_index
   
 end
 
-def move
+# def move
   
-end
+# end
